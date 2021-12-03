@@ -1,0 +1,1 @@
+This is repo to test basics of lua and embedding it in C.
